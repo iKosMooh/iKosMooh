@@ -29,7 +29,7 @@ Abaixo, um menu interativo com as linguagens que mais utilizo e que definem a mi
 - **C#** 🎯  
   Criação de sistemas integrados e aplicações desktop.
 
-![iKosMooh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iKosMooh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) ![iKosMooh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iKosMooh&theme=tokyonight&hide_border=true)
+![iKosMooh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iKosMooh&theme=tokyonight&hide_border=true) ![iKosMooh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iKosMooh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
@@ -47,8 +47,14 @@ Ao longo da minha jornada, desenvolvi diversos projetos que demonstram minha cap
 
 Estou sempre aberto a desafios e novas oportunidades que ampliem meus horizontes técnicos e profissionais. Caso deseje colaborar, trocar ideias ou conhecer mais sobre meus projetos, sinta-se à vontade para entrar em contato.
 
+Email: caiomagalhaesdesouza@gmail.com
+
 > **"Cada projeto é uma oportunidade de transformar conhecimento em inovação."**
 
 ---
 
 *Siga-me e acompanhe minha evolução nesta jornada de aprendizado contínuo!*
+
+<a href="https://www.linkedin.com/in/caio-souza-59b102336/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
