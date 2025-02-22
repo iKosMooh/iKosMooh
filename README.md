@@ -29,7 +29,7 @@ Abaixo, um menu interativo com as linguagens que mais utilizo e que definem a mi
 - **C#** 🎯  
   Criação de sistemas integrados e aplicações desktop.
 
-![iKosMooh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iKosMooh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![iKosMooh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iKosMooh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) ![iKosMooh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iKosMooh&theme=tokyonight&hide_border=true)
 
 ---
 
